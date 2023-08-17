@@ -1,5 +1,7 @@
+![MasterHead](https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif)
 <h1 align="center">Hi 👋, I'm Sneha Deb Barma</h1>
 <h3 align="center">"Biotech Grad 🧬 | Data Alchemist 📊 | Unveiling Insights at the Intersection of Science and Numbers 🌐"</h3>
+<img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20views&color=0e75b6&style=flat" alt="snehadebbarma" /> </p>
 
