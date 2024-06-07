@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sneha </h1>
-<h3 align="center">"Aspiring Front-End Developer  | Data Enthusiast  | Bridging the gap between design and data! "</h3>
+<h3 align="center">"Aspiring Front-End Developer  | Data Analyst  | Bridging the gap between design and data! "</h3>
 <img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehadebbarma&label=Profile%20views&color=0e75b6&style=flat" alt="snehadebbarma" /> </p>
@@ -22,11 +22,19 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+**Front-End Development:**  HTML, CSS, JavaScript 
+<br>
+**Data Analysis:** Python, Pandas, SQL (MySQL, MSSQL)
+<br>
+**Other:** Git, Figma
+</p>
 
 <h3 align="left">Background:</h3>
 <p>I leverage my data analysis background to inform the creation of data-driven user interfaces. I'm passionate about building user-centric interfaces that effectively communicate insights.</p>
 
-<p><a href="https://www.buymeacoffee.
+<p><a href="https://www.buymeacoffee.com/snehaDebBarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snehaDebBarma" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehadebbarma&show_icons=true&locale=en&layout=compact" alt="snehadebbarma" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&show_icons=true&locale=en" alt="snehadebbarma" /></p>
