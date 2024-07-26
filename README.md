@@ -1,31 +1,60 @@
- <h1 align="center">Hi there, I'm Sneha!</h1>
-<h3 align="center" style="color: #795545;">Data Analyst by day, Front-End Dev by night. </h3>
-<img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<h1 align="center">Hello, I'm Sneha Deb Barma! 👋</h1>
+<h3 align="center" style="color: #0070f3;">Data Analyst & Front-End Developer with a Passion for Building Interactive Experiences 💻✨</h3>
 
-<p align="left"> I'm passionate about transforming raw data into beautiful and interactive user experiences. </p>
-
-<p align="left"> Currently honing my skills in Front-End Development (HTML, CSS, JavaScript including React) and building a strong foundation in Data Visualization. </p>
-
-<ul style="list-style-type: none; padding-left: 20px;">
-  <li>Ask me anything! I'm always eager to learn and collaborate.</li>
-</ul>
-
-<h3 align="left" style="color: #795545;">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/snehadebbarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/snehadebbarma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@snehadebbarma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@snehadebbarma2" height="30" width="40" /></a>
-<a href="https://discord.gg/snehabarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snehabarma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOrw4gUoUHVlLbOc4/giphy.gif" width="400" alt="Coding">
 </p>
 
-<h3 align="left" style="color: #795545;">Tech Stack:</h3>
-<p align="left">
-  **Front-End Dev:** HTML, CSS, JavaScript (including React)<br>
-  **Data Analysis:** Python, Pandas, SQL (MySQL, MSSQL)<br>
-  **Version Control:** Git<br>
-
+<p align="center">
+  I transform raw data into engaging user interfaces and insightful visualizations. Currently mastering advanced Front-End Development with React and diving deep into Data Analysis. 🚀
 </p>
 
-<p align="left">☕️ Feel free to buy me a coffee to fuel my passion for building awesome things!  <a href="https://www.buymeacoffee.com/snehaDebBarma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snehaDebBarma" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/snehaDebBarma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Sneha22802148" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.hackerrank.com/@snehadebbarma2" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-%231F8F2F.svg?&style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" />
+  </a>
+  <a href="https://discord.gg/snehabarma" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<p align="left"> Check out my projects on GitHub! <a href="https://github.com/snehadebbarma">@snehadebbarma</a>  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=snehadebbarma&show_icons=true&locale=en&layout=compact" alt="snehadebbarma" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snehadebbarma&show_icons=true&locale=en" alt="snehadebbarma" /></p>
+<h3 align="center" style="color: #0070f3;">Tech Stack 🛠️:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%23282C34.svg?&style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-%233B82F6.svg?&style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
 
+<h3 align="center" style="color: #0070f3;">Featured Projects 🌟:</h3>
+<p align="center">
+  <a href="https://github.com/snehaDebBarma/tic-tac-toe" target="_blank">
+    <img src="https://img.shields.io/badge/Tic-Tac-Toe-%23000000.svg?&style=flat&logo=github" alt="Tic-Tac-Toe" />
+  </a>
+  <!-- Add more project badges or links as needed -->
+</p>
+
+<h3 align="center" style="color: #0070f3;">GitHub Stats 📊:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehaDebBarma&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehadebbarma&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  ☕️ Want to support my work? Feel free to buy me a coffee! <a href="https://www.buymeacoffee.com/snehaDebBarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+</p>
+
+<p align="center">
+  Check out my projects on GitHub: <a href="https://github.com/snehadebbarma" target="_blank">snehadebbarma</a>
+</p>
