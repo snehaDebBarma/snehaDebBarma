@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #0070f3;">Data Analyst & Front-End Developer with a Passion for Building Interactive Experiences 💻✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOrw4gUoUHVlLbOc4/giphy.gif" width="400" alt="Coding">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="400" alt="Coding">
 </p>
 
 <p align="center">
@@ -58,3 +58,4 @@
 <p align="center">
   Check out my projects on GitHub: <a href="https://github.com/snehadebbarma" target="_blank">snehadebbarma</a>
 </p>
+
