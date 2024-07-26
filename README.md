@@ -16,7 +16,7 @@
   <a href="https://twitter.com/Sneha22802148" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.hackerrank.com/@snehadebbarma2" target="_blank">
+  <a href="https://www.hackerrank.com/snehadebbarma2" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-%231F8F2F.svg?&style=flat&logo=hackerrank&logoColor=white" alt="Hackerrank" />
   </a>
   <a href="https://discord.gg/snehabarma" target="_blank">
