@@ -52,10 +52,5 @@
 </p>
 
 <p align="center">
-  ☕️ Want to support my work? Feel free to support me via <a href="https://razorpay.com/" target="_blank">Razorpay</a>! <a href="https://rzp.io/l/snehadebbarma" target="_blank"><img src="https://cdn.razorpay.com/static/assets/razorpay-gateway.png" height="50" width="210" alt="Razorpay" /></a>
-</p>
-
-<p align="center">
   Check out my projects on GitHub: <a href="https://github.com/snehadebbarma" target="_blank">snehadebbarma</a>
 </p>
-
