@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Sneha Deb Barma! 👋</h1>
-<h3 align="center" style="color: #0070f3;">Data Analyst & Front-End Developer with a Passion for Building Interactive Experiences 💻✨</h3>
+<h3 align="center" style="color: #0070f3;">Front-End Developer & Data Analyst with a Passion for Building Interactive Experiences 💻✨</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  ☕️ Want to support my work? Feel free to buy me a coffee! <a href="https://www.buymeacoffee.com/snehaDebBarma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a>
+  ☕️ Want to support my work? Feel free to support me via <a href="https://razorpay.com/" target="_blank">Razorpay</a>! <a href="https://rzp.io/l/snehadebbarma" target="_blank"><img src="https://cdn.razorpay.com/static/assets/razorpay-gateway.png" height="50" width="210" alt="Razorpay" /></a>
 </p>
 
 <p align="center">
