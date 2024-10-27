@@ -11,11 +11,11 @@
 ---
 
 ### 🎨 **About Me**
-I'm a passionate frontend developer with a flair for creating engaging, user-friendly web applications. With experience in **React.js**, **JavaScript**, **Next.js**, and modern CSS frameworks, I thrive on turning complex problems into simple, beautiful, and intuitive designs. 
+I'm a dedicated frontend developer with over **2 years of experience** in building high-performance, responsive web applications. With a strong foundation in **React.js**, **JavaScript**, **Next.js**, and modern CSS frameworks, I enjoy transforming complex problems into elegant, user-friendly designs. 
 
-🔍 I’m constantly exploring new technologies and love working in dynamic environments where I can continue learning and growing. 
+🔍 I’m constantly exploring new technologies and thrive in dynamic environments where I can continue learning and growing. 
 
-🌱 Currently improving my skills in **TypeScript** and **React Native** to build more robust and versatile web applications.
+🌱 Currently improving my skills in **TypeScript** and **React Native** to create even more robust web applications.
 
 ---
 
@@ -40,6 +40,7 @@ I'm a passionate frontend developer with a flair for creating engaging, user-fri
 - [**Weather Forecast App**](https://github.com/snehaDebBarma/weather-forecast-app): A React-based app for displaying real-time weather data with a sleek and intuitive design.
 - [**Apple Website Clone**](https://github.com/snehaDebBarma/Apple-website): A responsive clone of the Apple website to showcase HTML, CSS, and JavaScript skills.
 - [**Tic-Tac-Toe Game**](https://github.com/snehaDebBarma/tic-tac-toe): A fun, interactive Tic-Tac-Toe game built with JavaScript and CSS animations.
+- [**Portfolio Website**](https://github.com/snehaDebBarma/portfolio): A personal portfolio site showcasing my work and projects.
 
 Check out all my projects [**here**](https://github.com/snehaDebBarma?tab=repositories).
 
@@ -65,4 +66,3 @@ Feel free to reach out or connect with me on:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehadebbarma&style=flat&color=brightgreen" alt="Profile Views" />
 </p>
-
